@@ -70,7 +70,7 @@ This tells you that Python is not installed and you have to set it up. Follow th
   - Scroll to the end of the value and add a semicolon (;) followed by the location of *python.exe*. If you didn't change the default installation location it should be located in your user directory.    
   - Click OK to save the settings
 
-	If you don't know the location of python.exe then don't panic, just search for *python.exe* in the Windows menu. Once located, right click the file, select properties, and view the Location. Right click to copy the full path and then paste it at the end of the Path user variable. If you don't have a Path user variable then click the new button, add a variable named Path, and then add the value which is the location or "path" of the python.exe file. Once done type "python" into the terminal to ensure that everything was set up properly and that it runs. 
+If you don't know the location of python.exe then don't panic, just search for *python.exe* in the Windows menu. Once located, right click the file, select properties, and view the Location. Right click to copy the full path and then paste it at the end of the Path user variable. If you don't have a Path user variable then click the new button, add a variable named Path, and then add the value which is the location or "path" of the python.exe file. Once done type "python" into the terminal to ensure that everything was set up properly and that it runs. 
 
 ### *Hello Peeps!*
 
