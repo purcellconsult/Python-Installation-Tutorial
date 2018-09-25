@@ -1,5 +1,7 @@
 ## Python Installation Tutorial
 
+![Festival of Lights, Berlin](https://github.com/purcellconsult/Python-Installation-Tutorial/blob/master/Festival_of_Lights_Berlin.png)
+
 The first hurdle to jump over in regards to coding in Python is setting up your environment. The operating system (OS) I'm coding in at the time of publication is Ubuntu 18.04, so if you don't have this then you're effectively out of luck :-). In all seriousness, the three major players in operating systems are Linux, OS X, and Windows. I'll provide installation instructions for all three along with recommended text editors. I'll also provide insights on how to run your first Python program and how to use pip which is a popular package manager system. 
 
 ###  Installing Python on Linux (Ubuntu 18.04)
@@ -11,6 +13,7 @@ To see if Python is installed on your machine open up the terminal and type in t
 You can fire-up the terminal by using the keyboard shortcut: *ctr + alt + t*. The terminal in Ubuntu 18.04 looks like the following:
 
 ![Figure 1.0. Install Python on Linux](https://github.com/purcellconsult/Python-Installation-Tutorial/blob/master/Figure_1.0_Install_Python_on_Linux.png)
+###### *Figure 1.0: Install Python on Linux.*
 
 The output should look something like the following: 
 
@@ -74,7 +77,7 @@ Once Python is installed we can test a simple *Hello Peeps* program to whet our 
 
     print("Hello peeps!")
 
-Go ahead and save the file as HelloPeeps.py to a location of your choice. It can be anywhere, just don't forget where you put it... pinky swear? 👍The next step is to fire up the terminal or command prompt (if using Windows) and then change into the directory where HelloPeeps.py is located. To change directories use the cd command. So, if HelloPeeps.py is in a Programs folder on your Desktop in Ubuntu then it should look something like this:
+Go ahead and save the file as `HelloPeeps.py` to a location of your choice. It can be anywhere, just don't forget where you put it... pinky swear? 👍The next step is to fire up the terminal or command prompt (if using Windows) and then change into the directory where `HelloPeeps.py` is located. To change directories use the cd command. So, if `HelloPeeps.py` is in a Programs folder on your Desktop in Ubuntu then it should look something like this:
 
     cd Desktop/Programs
 
@@ -85,6 +88,9 @@ Once you’re in the directory where your Python file is located the next step i
 Python is called an **interpreted language** because the programs can be run directly. The file is still compiled; it's just done internally or behind the scenes and is an implementation detail of the language. This is different from Java which if run through the terminal must be explicitly compiled first, and then the byte code is interpreted by the Java Virtual Machine. 
 
 You can also run Python code directly through the shell so that it doesn't have to be added to a file and then run – this is convenient when you want quick feedback and feeling too lazy to type code into a text editor. This is officially known as the *Python Shell* and is what we'll be using to learn the fundamental concepts about Python. You can access the Python Shell by opening up the terminal and typing *python3*. If successful the following will appear:  
+
+![The Python Shell](https://github.com/purcellconsult/Python-Installation-Tutorial/blob/master/Figure_1.1_The_Python_Shell.png)
+###### *Figure 1.1: The Python Shell.*	
 
 If all is good then simply type the following into the terminal:
 
@@ -105,7 +111,7 @@ If you're using an older version of Python I would highly recommend against that
 1) Download [get-pip.py](https://bootstrap.pypa.io/get-pip.py). Or, you can use curl to download pip by using the following command:  
 `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
     
-2) Run get-pip.py. You can do this by using the following command: 
+2) Run `get-pip.py`. You can do this by using the following command: 
 `python get-pip.py`
 
 That's it! Below are the steps on how you can install pip on OS X and various Linux environments.
@@ -140,4 +146,4 @@ To upgrade a package do:
 
 To see a list of packages that's outdated use the following command:
 
-$ pip list –outdated 
+    $ pip list –outdated
