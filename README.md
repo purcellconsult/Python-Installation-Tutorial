@@ -25,7 +25,7 @@ Look at this line of output:
 
     Python 3.6.5 |Anaconda, Inc.| (default, Apr 29 2018, 16:14:56)
 
-If you got something like this then *woot-woot*, Python 3.6.5 is installed on your machine. If Python 2.7 or later is installed then it's OK, you don’t need to uninstall it, you just need to get Python3 running. Luckily this process is super easy with Ubuntu: 
+If you got something like this then *woot-woot*, Python 3.6.5 is installed on your machine. If Python 2.7 or later is installed then it's OK, you don't need to uninstall it, you just need to get Python3 running. Luckily this process is super easy with Ubuntu: 
 
  - Step one: Open up the terminal by pressing `ctr + alt + t`
  - Step two: Type `sudo apt-get update` 
@@ -63,11 +63,12 @@ This tells you that Python is not installed and you have to set it up. Follow th
 
 **Step three**: You'll have an option to add Python to PATH. In layman terms, the PATH is where the computer searches for Python when you type it via command prompt. If you check this box then Python will be available via this option, if not then when you type *python* in the console an error will occur. Therefore, it's a good idea to check this option so that you can type in python commands via command prompt. If you installed Python without selecting this option then no biggie as you have to manually add the path to your system. Here are the steps on how to add Python to the PATH:
 
-a) In the Windows menu search for advanced system settings and select view advanced system settings.
-b) In the window that displays click Environment Variables. 
-c) In the next window, find and select the user variable called path and click Edit.
-d) Scroll to the end of the value and add a semicolon (;) followed by the location of *python.exe*. If you didn't change the default installation location it should be located in your user directory.
-e) Click OK to save the settings.
+  - In the Windows menu search for advanced system settings and select   
+   view advanced system settings. 
+  - In the window that displays click *Environment Variables*. 
+  - In the next window, find and select the user variable called path and click *Edit*.
+  - Scroll to the end of the value and add a semicolon (;) followed by the location of *python.exe*. If you didn't change the default installation location it should be located in your user directory.    
+  - Click OK to save the settings
 
 	If you don't know the location of python.exe then don't panic, just search for *python.exe* in the Windows menu. Once located, right click the file, select properties, and view the Location. Right click to copy the full path and then paste it at the end of the Path user variable. If you don't have a Path user variable then click the new button, add a variable named Path, and then add the value which is the location or "path" of the python.exe file. Once done type "python" into the terminal to ensure that everything was set up properly and that it runs. 
 
