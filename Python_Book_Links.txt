@@ -1,0 +1,115 @@
+
+Connect with me :-)
+--------------------
+
+
+My programming newsletter: http://www.purcellconsult.com/newsletter
+My LinkedIn: http://www.linkedin.com/in/doug-purcell 
+My GitHub: http://www.github.com/purcellconsult 
+
+Resources used to build this book:
+----------------------------------
+
+Ubuntu: https://www.ubuntu.com/download/desktop
+LibreOffice: https://www.libreoffice.org 
+Draw.io: https://www.draw.io
+Flickr: https://www.flickr.com
+Python.org: https://www.python.org
+
+
+Intro:
+----------
+
+LinkedIn Jobs: https://www.linkedin.com/jobs/python-jobs
+Python Jobs: https://www.pythonjobs.com
+Simply Hired: https://www.simplyhired.com/search 
+Remote Python: https://www.remotepython.com
+
+
+Chapter I:
+-----------
+
+Festival of lights (Flickr): https://www.flickr.com/photos/laddir/6250984723
+
+Python downloads: https://www.python.org/downloads
+
+get-pip.py: https://bootstrap.pypa.io/get-pip.py
+
+
+Chapter II:
+-----------
+
+Ghost art (Flickr): http://bit.ly/2RCL9Ma
+
+Recursion photo (Flickr): https://www.flickr.com/photos/jac31/5482584928/in/photolist-9qr5Ct-JWA33-2juuJ7-qZceEq-bvyUoZ-5Af1h1-9mtFum-9dYq4c-5AaH9p
+
+Python Enhancement Propsals (variable naming): https://www.python.org/dev/peps/pep-0008/#naming-conventions
+
+2to3 code translation: https://docs.python.org/2/library/2to3.html 
+
+Exceptions: https://docs.python.org/3/library/exceptions.html
+
+Chapter II coding solutions: https://github.com/purcellconsult/Python-Core-Basics/blob/master/PyCore_Code_Challenges.py
+
+
+Chapter III:
+------------
+
+cookie cutter artwork (Flickr): https://www.flickr.com/photos/fdecomite/11067118106
+
+double helix artwork (Flickr): https://www.flickr.com/photos/peterhess/7878711760
+
+polymorphism artwork (Flickr): https://www.flickr.com/photos/globuloblanco/20509047496
+
+empty capsule artwork (Flickr): https://www.flickr.com/photos/imuttoo/2113102913/?map=1
+
+PEP 257 (Docstring Convention): https://www.python.org/dev/peps/pep-0257
+
+Chapter III coding solution: https://github.com/purcellconsult/OOP-in-Python/blob/master/Polygons.py
+
+
+Chapter IV: Data Science in Python
+----------------------------------
+
+Circuit board line artwork (Flickr): https://www.flickr.com/photos/hinkelstone/2435823037
+Anaconda Windows install: http://docs.continuum.io/anaconda/install/windows
+Anaconda OS X install: http://docs.continuum.io/anaconda/install/mac-os
+Anaconda Linux install: http://docs.continuum.io/anaconda/install/linux 
+Anaconda online docs: https://docs.anaconda.com/anaconda 
+Matplotlib docs: https://matplotlib.org/api/pyplot_api.html
+    Matplotlib colors: https://matplotlib.org/api/colors_api.html 
+    Matplotlib markers: https://matplotlib.org/api/markers_api.html 
+Bar chart function signature: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.bar.html
+mplot3d tutorial: https://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html
+Chapter IV coding challenges: https://github.com/purcellconsult/Data-Science-in-Python/blob/master/Matplotlib.py
+
+Datasets:
+Grades.csv: https://github.com/purcellconsult/Data-Science-in-Python/blob/master/grades.csv
+Top us cities: https://github.com/purcellconsult/Data-Science-in-Python/blob/master/us_cities.csv
+
+
+Chapter V:
+-----------
+
+Audio artwork: https://www.flickr.com/photos/celesteh/15940657312/in/photolist-qhC34b-q1eXxV
+reading and writing files: https://docs.python.org/2/tutorial/inputoutput.html#reading-and-writing-files
+csv module: https://docs.python.org/2/library/csv.html
+JSON Lint: https://jsonlint.com
+BeautifulSoup code repository: https://code.launchpad.net/beautifulsoup
+BS4 source: https://www.crummy.com/software/BeautifulSoup/bs4/download/4.0
+Chapter V coding challenge solution: https://github.com/purcellconsult/Data-Manipulation-in-Python/blob/master/BS.py
+
+Datasets:
+software company: https://github.com/purcellconsult/Data-Manipulation-in-Python/blob/master/software_company.csv
+names.csv: https://github.com/purcellconsult/Data-Manipulation-in-Python/blob/master/names.csv
+site.html: https://github.com/purcellconsult/Data-Manipulation-in-Python/blob/master/site.html
+
+
+Chapter VI: 
+-----------
+
+Cleveland public library artwork (Flickr): http://bit.ly/2OQFgwk
+Regular expression library: https://docs.python.org/3/library/re.html
+Python library: https://docs.python.org/3/library 
+Sympy library: https://www.sympy.org/en/index.html 
+Chapter VI coding challenges solutions: https://github.com/purcellconsult/Python-Library-Tutorial/blob/master/SympyCode.py
